@@ -1,2 +1,2 @@
 # huffman-compression
-CS10 PSet 3
+Huffman Compression alogrithm for .txt files! (Dartmouth CS10 Pset 3)
